@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/mydb?useSSL=false
-    username: root
-    password: 4875625a
+    url: jdbc:mysql://presz.pl:3306/mydb?useSSL=false
+    username: janpresz_judge
+    password: Judge1234
   jpa:
     generate-ddl: true
